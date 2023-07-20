@@ -929,12 +929,9 @@ body {
 }
 
 .check-text-span {
-  display: inline-flex;
-}
-
-.check-text span {
   align-items: center;
   justify-content: center;
+  display: inline-flex;
   width: 16px;
   height: 16px;
   border-radius: 2px;
